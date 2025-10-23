@@ -212,4 +212,4 @@ else:
 
 # Pie de página
 st.markdown("---")
-st.caption("💖 **Aplicación desarrollada con amor, Streamlit y YOLOv5.** ☁️")
+
